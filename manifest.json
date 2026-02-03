@@ -1,7 +1,7 @@
 {
   "name": "Radial Incident Calendar",
-  "organization": "Airbus Custom Viz",
-  "description": "A circular heatmap for incidents and near misses.",
+  "organization": "Custom Viz",
+  "description": "Circular heatmap for incidents",
   "logoUrl": "https://raw.githubusercontent.com/google/dscc/master/viz/common/favicon.ico",
   "packageUrl": "https://github.com/edgarrodriguez-zavala-tech/looker-viz",
   "supportUrl": "https://github.com/edgarrodriguez-zavala-tech/looker-viz",
@@ -9,9 +9,9 @@
   "components": [{
     "id": "radialCalendar",
     "name": "Radial Calendar",
-    "description": "Circular heat map",
+    "description": "Circular heatmap",
     "iconUrl": "https://raw.githubusercontent.com/google/dscc/master/viz/common/favicon.ico",
-   "resource": {
+    "resource": {
       "js": "https://raw.githack.com/edgarrodriguez-zavala-tech/looker-viz/main/index.js",
       "config": "https://raw.githack.com/edgarrodriguez-zavala-tech/looker-viz/main/index.json",
       "css": "https://raw.githack.com/edgarrodriguez-zavala-tech/looker-viz/main/index.css"
