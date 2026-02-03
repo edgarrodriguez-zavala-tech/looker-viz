@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+  background-color: transparent;
+}
+
+#viz {
+  width: 100vw;
+  height: 100vh;
+}
