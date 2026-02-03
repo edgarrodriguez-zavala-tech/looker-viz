@@ -1,0 +1,20 @@
+{
+  "name": "Radial Incident Calendar",
+  "organization": "Custom Viz",
+  "description": "A circular heatmap for incidents and near misses.",
+  "logoUrl": "https://raw.githubusercontent.com/google/dscc/master/viz/common/favicon.ico",
+  "packageUrl": "https://github.com/YOUR_USERNAME/radial-calendar",
+  "supportUrl": "https://github.com/YOUR_USERNAME/radial-calendar",
+  "devMode": true,
+  "components": [{
+    "id": "radialCalendar",
+    "name": "Radial Calendar",
+    "description": "Circular heat map",
+    "iconUrl": "https://raw.githubusercontent.com/google/dscc/master/viz/common/favicon.ico",
+    "resource": {
+      "js": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/radial-calendar@main/index.js",
+      "config": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/radial-calendar@main/index.json",
+      "css": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/radial-calendar@main/index.css"
+    }
+  }]
+}
