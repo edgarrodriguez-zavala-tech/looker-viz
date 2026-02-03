@@ -11,7 +11,7 @@
     "name": "Radial Calendar",
     "description": "Circular heat map",
     "iconUrl": "https://raw.githubusercontent.com/google/dscc/master/viz/common/favicon.ico",
-    "resource": {
+   "resource": {
       "js": "https://raw.githack.com/edgarrodriguez-zavala-tech/looker-viz/main/index.js",
       "config": "https://raw.githack.com/edgarrodriguez-zavala-tech/looker-viz/main/index.json",
       "css": "https://raw.githack.com/edgarrodriguez-zavala-tech/looker-viz/main/index.css"
